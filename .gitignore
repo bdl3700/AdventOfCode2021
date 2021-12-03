@@ -1,0 +1,5 @@
+# I will use .test to indicate files containing example data
+*.test
+
+# .in files will represent actual test cases
+*.in
